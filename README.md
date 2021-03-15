@@ -1,5 +1,5 @@
 # Overview 
-To shift or not to shift: dynamics of amino acid preferences under stability-constrained evolution. Noor Youssed, Ed Susko, Andrew Roger, and Joseph Bielawski. 
+To shift or not to shift: dynamics of amino acid preferences under stability-constrained evolution. Noor Youssef, Ed Susko, Andrew Roger, and Joseph Bielawski. 
 
 # Organization 
 - ./data/ contains all the data required to reproduce the figures and results presented in the manuscript
